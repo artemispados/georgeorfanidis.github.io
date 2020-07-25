@@ -119,7 +119,7 @@ author:
       # url: "https://instagram.com/"
     - label: "LinkedIn"
       icon: "fab fa-linkedin-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/"
 
 # Site Footer
 footer:
