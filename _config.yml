@@ -93,9 +93,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "George Orfanidis"
+  name             : "Connect"
   avatar           : "/images/georgeOrfanidis.jpg" #path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an undergraduate student styding Computer Science with a minor in Mathematcs at Winthrop University"
+  bio              : 
   location         : "Rock Hill, SC"
   email            :
   links:
