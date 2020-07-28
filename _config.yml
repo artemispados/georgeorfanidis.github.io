@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Connect"
-  avatar           : "/images/profileImage.jpg" #path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/profileImage1.jpg" #path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "                          "
   location         : "Rock Hill, SC"
   email            :
